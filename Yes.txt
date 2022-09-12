@@ -1,0 +1,2 @@
+msg = Instance.new("Message",workspace) 
+msg.Text = "FUCKED BY RXZENT#5168" 
